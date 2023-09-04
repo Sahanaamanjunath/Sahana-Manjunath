@@ -5,7 +5,7 @@ This repository provides visualizations of the GDP of top economies and influent
 ## Top 5 Economies by Nominal GDP
 
 In this visualization, we highlight the top 5 countries by their nominal GDP in US dollars. A couple of points to note:
-- Russia's data starts appearing only from the year 1980 due to the dissolution of the Soviet Union and the subsequent creation of the Russian Federation.
+- Russia's data starts appearing only from the year 1988 due to the dissolution of the Soviet Union and the subsequent creation of the Russian Federation.
 - China's economic rise can be observed distinctly as it gradually catches up with the US. However, it's worth mentioning that this visualization does not provide an entirely accurate representation of economic expansion. This is because a part of the GDP increase over the years can be attributed to inflation, which might inflate the growth numbers.
 
 ![Top 5 Economies by Nominal GDP](GDPtop5.jpg)
